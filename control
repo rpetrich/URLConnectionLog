@@ -1,0 +1,9 @@
+Package: com.rpetrich.urlconnectionlog
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.0
+Description: Log all the things!
+Name: URLConnectionLog
+Depends: firmware (>= 3.0), mobilesubstrate
+Author: Ryan Petrich
